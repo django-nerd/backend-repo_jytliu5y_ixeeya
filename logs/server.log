@@ -1,27 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [246] using StatReload
-INFO:     Started server process [248]
+INFO:     Started reloader process [304] using StatReload
+INFO:     Started server process [306]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:49370 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:40982 - "GET /api/notes HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/notes HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40982 - "GET /api/notes HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/flashcards HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40982 - "GET /api/flashcards HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40994 - "GET /api/questions HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40998 - "GET /api/summaries HTTP/1.1" 200 OK
-INFO:     172.20.0.1:43824 - "GET /api/notes HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40970 - "GET /api/questions HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40982 - "GET /api/summaries HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40994 - "GET /api/summaries HTTP/1.1" 200 OK
-INFO:     172.20.0.1:40998 - "GET /api/summaries HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37664 - "GET /api/notes HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37670 - "GET /api/flashcards HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37682 - "GET /api/summaries HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37702 - "GET /api/flashcards HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37716 - "GET /api/summaries HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37718 - "GET /api/notes HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37698 - "GET /api/questions HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37678 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42322 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47148 - "GET /api/notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47138 - "GET /api/flashcards HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47150 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47184 - "GET /api/notes HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47148 - "GET /api/questions HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47138 - "GET /api/summaries HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47174 - "GET /api/flashcards HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47158 - "GET /api/summaries HTTP/1.1" 200 OK
